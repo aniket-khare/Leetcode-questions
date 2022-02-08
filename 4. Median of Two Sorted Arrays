@@ -30,7 +30,7 @@ Constraints:
     1 <= m + n <= 2000
     -106 <= nums1[i], nums2[i] <= 106
 
-**Solution** - 
+Solution - 
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
